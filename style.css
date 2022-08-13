@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 10px 5px royalblue;
+}
+
+.note{
+    font-size: 20px;
+    color: black;
+}
+
+#name-song{
+    font-size: 20px;
+}
+
+.copy_right_footer{
+    width: 95%;
+    margin-top: 542px;
+   border: 3px royalblue;
+    border-radius: 50px;
+}
+
+canvas{
+    border: 10px solid white;
+    border-radius: 30px;
+    box-shadow: 10px 5px 5px gray;
+}
